@@ -153,7 +153,7 @@ fork → clone → create branch → commit → push → PR
 ```
 📜 License
 
-MIT License
+Apache 2.0 License
 
 👨‍💻 Author
 
